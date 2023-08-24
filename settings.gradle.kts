@@ -15,4 +15,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "SUT1"
 include(":app")
- 
+include(":core:model")
+include(":core:common")
